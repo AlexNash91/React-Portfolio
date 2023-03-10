@@ -11,12 +11,14 @@ import Projects from './components/Projects'
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Bio />
+      <div className="Bio">
+        <Header />
+        <Bio />
+      </div>
       <Tech />
       <Projects />
       <Footer />
-      
+
     </div>
   );
 }

@@ -32,7 +32,32 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.left {
+  max-width: 10%;
+  max-height: 10%;
+  border: var(--flexbox) solid 3px;
+  min-width: 120px;
+  min-width: 120px;
+  display: block;
+}
+
+.tech {
+  display: flex;
+  align-items: left;
+}
+.grid {
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5px;
+  grid-auto-rows: minmax(50px, 75px);
+  padding-top: 100px;
+  margin-right: 50px;
+
 }

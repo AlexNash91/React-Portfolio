@@ -12,7 +12,9 @@ import Button from '@mui/material/Button';
 import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
-const pages = ['About Me', 'Projects', 'Contact'];
+
+
+const pages = ['About Me', 'Tech', 'Contact'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 

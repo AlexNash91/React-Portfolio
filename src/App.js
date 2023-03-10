@@ -1,8 +1,9 @@
 import './App.css';
 import Header from './components/Header';
 import Footer from './components/Footer'
-import Experience from './components/Experience'
+import Tech from './components/Tech'
 import Bio from './components/Bio'
+import Projects from './components/Projects'
 
 
 
@@ -12,7 +13,8 @@ function App() {
     <div className="App">
       <Header />
       <Bio />
-      <Experience />
+      <Tech />
+      <Projects />
       <Footer />
       
     </div>

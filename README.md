@@ -5,3 +5,4 @@ This portfolio is built with React and is designed to showcase my skills not onl
 
 ## Links 
 [Github](https://github.com/AlexNash91/React-Portfolio)
+[Deployed-Page](https://alexnash91.github.io/React-Portfolio/)

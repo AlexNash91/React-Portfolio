@@ -4,7 +4,7 @@ const Tech = () => {
     <div className="w-100 mt-auto text-dark p-4">
       <div className="container text-center mb-5">
         <section class="tech">
-          <h4>Tech</h4>
+          <h2>Tech</h2>
           <ul class="grid">
             <li>HTML</li>
             <li>CSS</li>

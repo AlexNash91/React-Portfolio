@@ -8,7 +8,7 @@ const Bio = () => {
             <div className="container text-center mb-5">
 
                 <h4>About Me</h4>
-                <img className="left" src={imageName} alt="Headshot"/>
+                <img className="left" src={imageName} alt="Headshot" align="left"/>
                 <p>
                         My name is Alex Nash, and I'm currently in the UCF coding bootcamp, focusing on full-stack web development. My skillsets include HTML, CSS, JavaScript, and Python. I am
                     also proficient in a range of libraries and technologies, including jquerry, MongoDB, Node.js, React, and more. After the camp concludes, I will be seeking to continue my
